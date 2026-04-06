@@ -1,5 +1,7 @@
 flask
 flask-cors
+jinja2
+werkzeug
 sqlalchemy
 reportlab
 gunicorn
